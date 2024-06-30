@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JalilTahirov
-- 👀 I’m interested in .NET, Azure, ASP.NET Core
+- ✨ Current stack C#, .NET, Azure, ASP.NET Core, PostgreSQL
+- 👀 I’m interested in data structures, algorithms, leetcode, python
 
 <!---
 JalilTahirov/JalilTahirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
